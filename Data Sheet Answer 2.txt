@@ -1,0 +1,54 @@
+Machine Learning 2
+
+1)  B : classification and clustering
+2) B :  Regression and Classification
+3) A :True
+4) B  Removal of outliers  only
+5) B : Min. should be 1
+6) B : No
+7) A : Yes
+8) B : For a fixed number of iterations.Assignment of observations to clusters does not change between iterations. Except for cases with a bad local minimum.Centroids do not change between successive iterations. iv) Terminate when RSS falls below a threshold.
+9) D : K- Means clustering algorithm and Expectation-Maximization clustering algorithm 
+10) A :  K-means clustering algorithm 
+11) C  
+12) C
+13) Yes, K is sensitive to outliers because any outlier value can extreamly change the mean value.
+14) k-means becomes a great solution for pre-clustering, reducing the space into disjoint smaller sub-spaces where other clustering algorithms can be applied.
+15) K is based on non-deterministic algorithm. Running algorithm multiple times on the same data,could give different results.
+
+WORKSHEET 2 SQL 
+
+1) D: Unique 
+2) C: Null 
+3) A: Each entry in the primary key uniquely identifies each entry or row in the table 
+4) A: There should not be any duplicate entries 
+5) B: Foreign Key 
+6) D: Delivery ID
+7) A: one to many 
+8) C: one to one 
+9) B: supplier id 
+10) D: Product Id and Order Id
+11) B: many to one 
+12) C: Table 
+13) A: Insert in to
+14) B: Unique (One NUll and all distinct values)  C: Primary Key (All Unique Values) D: Null  (Values can be null in columns)
+15) A: A blood group can contain one of the following values - A, B, AB and O. B: A blood group can only contain characters  D: Two or more donors can have same blood group 
+
+
+STATISTICS WORKSHEET-2 
+
+1)  Standard Deviation and  mean C: both 
+2) C: 12 
+3) D : All of the above 
+4) Exhaustive And Mutually exclusive C: Both of these 
+5) D
+6) B: Data set
+7) D: 1 or more 
+8) C: Bar graph 
+9) D: Analysis of variance
+10) A: Z-score 
+11) C: mean 
+12) D:  400005.2 
+13) C: Median 
+14) C: Positive skew and negative skew 
+15) D: High - Low
